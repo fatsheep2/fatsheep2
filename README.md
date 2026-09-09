@@ -1,170 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20I'm%20fatSheep%20👋&fontSize=42&fontAlignY=32&desc=Builder%20|%20Beancount%20%26%20Tooling&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BADE8,100:2E8B57&height=160&section=header&text=fatSheep&fontSize=48&fontAlignY=40&desc=Beancount%20%7C%20Tools%20%7C%20Full%20Stack&descAlignY=60&descAlign=50" width="100%" alt="header"/>
 </div>
 
 <p align="center">
-  <a href="https://blog.lystu.cn"><img src="https://img.shields.io/badge/Blog-LY'Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-  <a href="mailto:zxy167788318@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4A90E2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/fatsheep2"><img src="https://img.shields.io/github/followers/fatsheep2?style=for-the-badge&color=00D9FF&labelColor=1e1e2e&logo=github&label=Followers"/></a>
-  <a href="README.zh_CN.md"><img src="https://img.shields.io/badge/中文-README-3BADE8?style=for-the-badge"/></a>
+  <a href="./README.md"><strong>English</strong></a>
+  ·
+  <a href="./README.zh_CN.md"><strong>简体中文</strong></a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Building+BeanBridge+%26+dev+tools;TypeScript+%7C+Vue+%7C+Rust" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://blog.lystu.cn"><img src="https://img.shields.io/badge/Blog-lystu.cn-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+  <a href="mailto:zxy167788318@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/fatsheep2"><img src="https://img.shields.io/github/followers/fatsheep2?style=for-the-badge&logo=github&label=Followers&color=00D9FF&labelColor=1e1e2e" alt="Followers"/></a>
+  <a href="https://fatsheep2.github.io/beanBridge/"><img src="https://img.shields.io/badge/BeanBridge-Live_Demo-2E8B57?style=for-the-badge" alt="BeanBridge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fatsheep2&style=for-the-badge&color=3BADE8&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3BADE8&center=true&vCenter=true&width=680&height=80&lines=Building+BeanBridge+%26+dev+tools;TypeScript+%7C+Vue+%7C+Rust;Local-first+finance+tooling" alt="typing"/>
+</p>
 
 ---
 
-## 🎯 About Me
+## About
 
-```typescript
+Hey, I'm **fatSheep** — full-stack / tools developer based in China.
+
+Right now I care most about **Beancount double-entry bookkeeping** and small tools that make money tracking less painful. I like local-first workflows, WASM in the browser, and shipping things people can actually use.
+
+```ts
 const fatSheep = {
-  location: "China 🇨🇳",
-  currentFocus: [
-    "Double-entry bookkeeping (Beancount)",
-    "Local-first finance tooling",
-    "Small, sharp developer tools",
-  ],
-  languages: ["TypeScript", "JavaScript", "Rust", "Java", "Python"],
-  technologies: {
-    frontend: ["Vue 3", "Vite", "Tailwind", "WebAssembly"],
-    backend: ["Node.js", "Java"],
-    databases: ["Beancount", "MySQL", "MongoDB"],
-    tools: ["Git", "Linux", "Docker", "GitHub Actions"],
-  },
-  motto: "Ship useful tools, keep data local ✨",
+  focus: ["Beancount", "BeanBridge", "dev tooling"],
+  stack: ["TypeScript", "Vue 3", "Rust", "WASM"],
+  style: "useful > flashy",
 };
 ```
 
 ---
 
-## 🔥 What I'm Working On
+## Featured projects
 
-Most of my recent energy goes into **Beancount / double-entry bookkeeping** and the tools around it:
-
-| Project | What it is |
-| --- | --- |
-| [**beanBridge**](https://github.com/fatsheep2/beanBridge) | Rule-based importer: Alipay / WeChat / bank / crypto → Beancount or Ledger. Vue 3 + WASM, fully local. [Live demo](https://fatsheep2.github.io/beanBridge/) |
-| [**fava-mirato**](https://github.com/fatsheep2/fava-mirato) | Fava-related exploration in the Beancount ecosystem |
-| [**cddock**](https://github.com/fatsheep2/cddock) | Rust TUI for Cataclysm: DDA |
-
-Also tinkering with personal ledgers, wiki notes, and occasional blockchain analysis.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-
-### 🗄️ Databases & Domains
-![Beancount](https://img.shields.io/badge/Beancount-2E8B57?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/fatsheep2/beanBridge">beanBridge</a></h3>
+      <p>Rule-based bill importer: Alipay / WeChat / banks / crypto → Beancount or Ledger.</p>
+      <p>Vue 3 + WASM, runs fully in the browser. <a href="https://fatsheep2.github.io/beanBridge/">Try it live</a>.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/fatsheep2/beanBridge?style=flat-square" alt="stars"/>
+        <img src="https://img.shields.io/github/languages/top/fatsheep2/beanBridge?style=flat-square" alt="lang"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/fatsheep2/cddock">cddock</a></h3>
+      <p>Rust TUI for Cataclysm: DDA — a sharp little terminal tool for game workflows.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/fatsheep2/cddock?style=flat-square" alt="lang"/>
+        <img src="https://img.shields.io/badge/Rust-TUI-000000?style=flat-square&logo=rust" alt="rust"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/fatsheep2/fava-mirato">fava-mirato</a></h3>
+      <p>Exploring the Beancount / Fava ecosystem — bookkeeping UI and workflow experiments.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://blog.lystu.cn">LY'Blog</a></h3>
+      <p>Notes and write-ups at <a href="https://blog.lystu.cn">blog.lystu.cn</a>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Tech stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatsheep2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatsheep2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,java,py,vue,react,nodejs,wasm,vite,tailwind,docker,linux,github,mysql,mongodb" alt="tech stack"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fatsheep2&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatsheep2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BADE8&line=3BADE8&point=FFFFFF" width="100%" alt="Activity graph"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Beancount-2E8B57?style=for-the-badge" alt="Beancount"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatsheep2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub trophies"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=fatsheep2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fatsheep2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fatsheep2&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy-one.vercel.app/?username=fatsheep2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophies"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatsheep2&custom_title=Contribution%20Graph&bg_color=0D1117&color=3BADE8&line=3BADE8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/3BADE8/fatsheep2" width="100%" alt="contribution chart"/>
+</p>
 
 ---
 
-## ⏱️ Coding Time
+## Coding time
 
-<div align="center">
+<p align="center">
   <a href="https://wakatime.com/@04e3f192-51ae-42c4-9648-523f599b5595">
-    <img src="https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg?style=for-the-badge" alt="Total time coded since May 29 2021" />
+    <img src="https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg?style=for-the-badge" alt="WakaTime"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## Connect
+
+<p align="center">
+  <a href="https://blog.lystu.cn"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+  <a href="mailto:zxy167788318@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/fatsheep2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://fatsheep2.github.io/beanBridge/"><img src="https://img.shields.io/badge/BeanBridge-2E8B57?style=for-the-badge" alt="BeanBridge"/></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</p>
 
 <div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lystu.cn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy167788318@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatsheep2)
-[![BeanBridge](https://img.shields.io/badge/BeanBridge-2E8B57?style=for-the-badge)](https://fatsheep2.github.io/beanBridge/)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatsheep2&style=for-the-badge&color=3BADE8&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-  ### 💙 Thanks for visiting!
-  ⭐ **Feel free to star my repositories if you find them interesting!** ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:3BADE8&height=100&section=footer" width="100%" alt="footer"/>
+  <p>Thanks for stopping by — a star on <a href="https://github.com/fatsheep2/beanBridge">BeanBridge</a> always helps.</p>
 </div>
